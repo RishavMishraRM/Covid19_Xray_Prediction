@@ -1,2 +1,2 @@
 # Covid19_Xray_Prediction
-Corona prediction using xray
+Corona prediction using xray of chest
